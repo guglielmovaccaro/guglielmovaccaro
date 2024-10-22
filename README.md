@@ -11,9 +11,8 @@ Let's connect and explore the possibilities together!
 ---
 
 ### 🔗 Connect with me:
-- [Twitter](https://twitter.com/tuoprofilotwitter)
-- [LinkedIn](https://linkedin.com/in/tuoprofilolinkedin)
-- [Website](https://tuosito.com)
-- [Telegram](https://t.me/tuoprofilotelegram)
+- [LinkedIn](http://www.linkedin.com/in/guglielmomave)
+- [Twitter](https://twitter.com/guglielmomave)
+- [Medium](http://medium.com/@guglielmovaccaro)
 
 Cheers 🧙‍♂️  
