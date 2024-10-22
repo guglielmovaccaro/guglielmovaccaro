@@ -17,4 +17,10 @@ Let's connect and explore the possibilities together!
 - [Twitter](https://twitter.com/guglielmomave)
 - [Medium](http://medium.com/@guglielmovaccaro)
 
+### 🔗 MyStartups:
+
+- [Sp3llBound Studios](https://linktr.ee/sp3llboundstudios)
+- [21BJ](https://linktr.ee/21bj.io)
+- [TheLastDwarfs](https://linktr.ee/thelastdwarfs)
+
 Cheers 🧙‍♂️  
