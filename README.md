@@ -1,5 +1,7 @@
 # Guglielmo Vaccaro (aka Mave)
 
+![Sp3llbound Studios Partners](https://github.com/guglielmovaccaro/guglielmovaccaro/blob/main/PARTNERS%20GIF%20%20(1).png)
+
 🌟 **Hi there! I'm Guglielmo (aka Mave)**, Co-founder of Sp3llbound Studios.  
 We're dedicated to building a unique Web3 gaming ecosystem.
 
