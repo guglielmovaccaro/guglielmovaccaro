@@ -11,6 +11,8 @@ We're dedicated to building a unique Web3 gaming ecosystem.
 Let's connect and explore the possibilities together!
 
 ---
+### 🔗 AboutMe:
+- [PersonalWebsite](https://guglielmovaccaro.com)
 
 ### 🔗 Connect with me:
 - [LinkedIn](http://www.linkedin.com/in/guglielmomave)
