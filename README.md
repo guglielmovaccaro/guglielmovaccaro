@@ -1,6 +1,6 @@
 # Guglielmo Vaccaro (aka Mave)
 
-![Sp3llbound Studios Partners](https://github.com/guglielmovaccaro/guglielmovaccaro/blob/main/PARTNERS%20GIF%20%20(1).png)
+![Samurai Definitivo Logo](https://raw.githubusercontent.com/guglielmovaccaro/website/refs/heads/main/assets/img/samuraidefinitivo.png)
 
  **Hi there! I'm Guglielmo (aka Mave)**, a Web3 Startupper & Entrepreneur, specializing in blockchain, ai , and innovative game development solutions.
 
