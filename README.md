@@ -2,7 +2,7 @@
 
 ![Samurai Definitivo Logo](https://raw.githubusercontent.com/guglielmovaccaro/website/refs/heads/main/assets/img/samuraidefinitivo.png)
 
-Building apps. Shipping fast. Fail fast.
+**Building apps. Shipping fast. Fail fast.**
 
 **Philosophy**:
 
@@ -38,7 +38,8 @@ P.S. I hate calls
 - [Medium](http://medium.com/@guglielmovaccaro)
 
 ### 🔗 Working/ed on :
--[StartuPage](https://startupa.ge)
+
+- [StartuPage](https://startupa.ge)
 - [Bitzuma](https://linktr.ee/bitzuma.com)
 - [Sp3llBound Studios](https://linktr.ee/sp3llboundstudios)
 - [21BJ](https://linktr.ee/21bj.io)
