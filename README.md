@@ -2,12 +2,31 @@
 
 ![Samurai Definitivo Logo](https://raw.githubusercontent.com/guglielmovaccaro/website/refs/heads/main/assets/img/samuraidefinitivo.png)
 
- **Hi there! I'm Guglielmo (aka Mave)**, a Web3 Startupper & Entrepreneur, specializing in blockchain, ai , and innovative game development solutions.
+Building apps. Shipping fast. Fail fast.
 
- With a deep passion for Web3 technology since **2019**, I thrive on innovation and entrepreneurship, constantly seeking to bring innovative ideas to life.
+**Philosophy**:
 
-👋 **Curious about Web3 and its potential to revolutionize industries?**  
-Let's connect and explore the possibilities together!
+→ Ship > Perfect
+→ Solo/Small Teams > Big teams
+→ Speed > Planning
+→ Real problems > "Disruption"
+
+Just code, launch, iterate.
+
+**Follow for**:
+
+→ Build-in-public updates
+→ Real revenue numbers
+→ What works (and what fails)
+→ The solo builder playbook
+
+**Building something?** DM me.
+
+📧 hello@guglielmovaccaro.com
+🌐 guglielmovaccaro.com
+💬 Open to: Partnerships, Speaking, Collaboration
+
+P.S. I hate calls
 
 ---
 ### 🔗 AboutMe:
@@ -19,7 +38,7 @@ Let's connect and explore the possibilities together!
 - [Medium](http://medium.com/@guglielmovaccaro)
 
 ### 🔗 Working/ed on :
-
+-[StartuPage](https://startupa.ge)
 - [Bitzuma](https://linktr.ee/bitzuma.com)
 - [Sp3llBound Studios](https://linktr.ee/sp3llboundstudios)
 - [21BJ](https://linktr.ee/21bj.io)
