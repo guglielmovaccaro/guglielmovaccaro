@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="110" viewBox="0 0 1200 110" font-family="'JetBrains Mono', ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">
+<defs></defs>
+<rect width="1200" height="110" rx="14" fill="#14121A"/>
+<g transform="translate(440,24)">
+  <rect x="0" y="26" width="64" height="38" rx="4" fill="#8A5A34" stroke="#F2C14E" stroke-width="2.5"/>
+  <path d="M0 26 Q32 -4 64 26 Z" fill="#9C6A40" stroke="#F2C14E" stroke-width="2.5">
+    <animateTransform attributeName="transform" type="rotate" values="0 0 26;-10 0 26;0 0 26" dur="2.4s" repeatCount="indefinite"/></path>
+  <rect x="27" y="30" width="10" height="12" rx="2" fill="#F2C14E"/>
+</g>
+<text x="530" y="56" font-size="20" font-weight="800" fill="#F5F5F3">Shipwrecks &amp; salvaged lessons</text>
+<text x="530" y="82" font-size="14" fill="#E8622B">open the chest<animate attributeName="opacity" values="1;0.4;1" dur="2.2s" repeatCount="indefinite"/></text>
+<rect x="0.5" y="0.5" width="1199" height="109" rx="13.5" fill="none" stroke="#F2C14E" stroke-opacity="0.35" stroke-dasharray="8 6"/>
+</svg>

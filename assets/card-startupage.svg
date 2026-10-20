@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="230" viewBox="0 0 600 230" font-family="'JetBrains Mono', ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">
+<defs><clipPath id="cc"><rect width="600" height="230" rx="16"/></clipPath><pattern id="gp" width="24" height="24" patternUnits="userSpaceOnUse"><path d="M24 0V24H0" fill="none" stroke="#F5F5F3" stroke-opacity="0.05"/></pattern></defs>
+<g clip-path="url(#cc)">
+<rect width="600" height="230" fill="#171614"/><rect width="600" height="230" fill="url(#gp)"/>
+<rect x="0" y="0" width="6" height="230" fill="#E8622B"/>
+<text x="32" y="44" font-size="13" fill="#E8622B" letter-spacing="3">PORT 01</text>
+<text x="32" y="84" font-size="32" font-weight="800" fill="#F5F5F3">Startupage</text>
+<text x="568" y="44" text-anchor="end" font-size="13" fill="#9A958E">startupa.ge</text>
+<text x="32" y="124" font-size="15" fill="#D9D3CB">Where founders, investors and talent find each</text><text x="32" y="146" font-size="15" fill="#D9D3CB">other. Verified profiles and a token based</text><text x="32" y="168" font-size="15" fill="#D9D3CB">board for hiring, cofounders and rounds.</text>
+<g transform="translate(32,186)">
+  <rect width="284" height="28" rx="14" fill="#F2C14E" fill-opacity="0.15" stroke="#F2C14E" stroke-opacity="0.7"/>
+  <circle cx="16" cy="14" r="4.5" fill="#F2C14E"><animate attributeName="opacity" values="1;0.25;1" dur="1.6s" repeatCount="indefinite"/></circle>
+  <text x="30" y="19" font-size="13" fill="#F5F5F3">accepting offers for the ship</text>
+</g>
+<g transform="translate(490,110)" opacity="0.9"><g><circle cx="40" cy="40" r="34" stroke="#E8622B" stroke-width="3" fill="none" stroke-linecap="round" stroke-linejoin="round"/><ellipse cx="40" cy="40" rx="14" ry="34" stroke="#E8622B" stroke-width="3" fill="none" stroke-linecap="round" stroke-linejoin="round"><animate attributeName="rx" values="14;30;2;14" dur="6s" repeatCount="indefinite"/></ellipse><line x1="6" y1="40" x2="74" y2="40" stroke="#E8622B" stroke-width="3" fill="none" stroke-linecap="round" stroke-linejoin="round"/><path d="M12 24 H68 M12 56 H68" stroke="#E8622B" stroke-width="3" fill="none" stroke-linecap="round" stroke-linejoin="round" opacity="0.6"/></g></g>
+</g>
+<rect x="0.5" y="0.5" width="599" height="229" rx="16" fill="none" stroke="#F5F5F3" stroke-opacity="0.12"/>
+</svg>
